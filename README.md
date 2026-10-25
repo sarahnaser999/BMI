@@ -15,7 +15,7 @@ A modern and responsive BMI (Body Mass Index) Calculator mobile application buil
 ---
 Homepage | Female Screen |
 | :---: | :---: |
-| ![Homepage](screenshots/homepage.png) | ![Female](screenshots/female.png) |
+| ![Homepage](screenshots/Homepage.png) | ![Female](screenshots/female.png) |
 
 | Male Screen | Result Screen |
 | :---: | :---: |
